@@ -1,0 +1,28 @@
+/* Nickolas Kavanagh */
+/* SD 12 Final Sprint 1 */
+/* Project 3 - JavaScript FINAL SPRINT */
+/* July 30, 2024 - August 11, 2024 */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #dae9f3;
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+}
+
+#playerdata {
+    list-style-type: none;
+}
+
+#playerdata > li {
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 20px;
+}

@@ -1,0 +1,298 @@
+{
+    "playerData": [
+      {
+        "firstName": "Marc-Andre",
+        "lastName": "Fleury",
+        "dateOfBirth": "1984-11-28",
+        "jerseyNumber": 29,
+        "position": "Goaltender",
+        "team": "Minnesota Wild",
+        "salary": 2500000,
+        "draftData": {
+          "draftYear": 2003,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Alex",
+        "lastName": "Ovechkin",
+        "dateOfBirth": "1985-09-17",
+        "jerseyNumber": 8,
+        "position": "Left Wing",
+        "team": "Washington Capitals",
+        "salary": 9500000,
+        "draftData": {
+          "draftYear": 2004,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Sidney",
+        "lastName": "Crosby",
+        "dateOfBirth": "1987-08-07",
+        "jerseyNumber": 87,
+        "position": "Center",
+        "team": "Pittsburgh Penguins",
+        "salary": 8700000,
+        "draftData": {
+          "draftYear": 2005,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Erik",
+        "lastName": "Johnson",
+        "dateOfBirth": "1988/03/21",
+        "jerseyNumber": 77,
+        "position": "Defenseman",
+        "team": "Philadelphia Flyers",
+        "salary": 1000000,
+        "draftData": {
+          "draftYear": 2006,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Patrick",
+        "lastName": "Kane",
+        "dateOfBirth": "1988/11/18",
+        "jerseyNumber": 88,
+        "position": "Right Wing",
+        "team": "Detroit Red Wings",
+        "salary": 4000000,
+        "draftData": {
+          "draftYear": 2007,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Steven",
+        "lastName": "Stamkos",
+        "dateOfBirth": "1990/02/07",
+        "jerseyNumber": 91,
+        "position": "Center",
+        "team": "Nashville Predators",
+        "salary": 8000000,
+        "draftData": {
+          "draftYear": 2008,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "John",
+        "lastName": "Tavares",
+        "dateOfBirth": "1990-09-20",
+        "jerseyNumber": 91,
+        "position": "Center",
+        "team": "Toronto Maple Leafs",
+        "salary": 11000000,
+        "draftData": {
+          "draftYear": 2009,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Taylor",
+        "lastName": "Hall",
+        "dateOfBirth": "1991-11-14",
+        "jerseyNumber": 71,
+        "position": "Left Wing",
+        "team": "Chicago Blackhawks",
+        "salary": 6000000,
+        "draftData": {
+          "draftYear": 2010,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Ryan",
+        "lastName": "Nugent-Hopkins",
+        "dateOfBirth": "1993-04-12",
+        "jerseyNumber": 93,
+        "position": "Center",
+        "team": "Edmonton Oilers",
+        "salary": 5125000,
+        "draftData": {
+          "draftYear": 2011,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Nathan",
+        "lastName": "MacKinnon",
+        "dateOfBirth": "1995-09-01",
+        "jerseyNumber": 29,
+        "position": "Center",
+        "team": "Colorado Avalanche",
+        "salary": 12600000,
+        "draftData": {
+          "draftYear": 2013,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Aaron",
+        "lastName": "Ekblad",
+        "dateOfBirth": "1984-11-28",
+        "jerseyNumber": 5,
+        "position": "Defenseman",
+        "team": "Florida Panthers",
+        "salary": 7500000,
+        "draftData": {
+          "draftYear": 2014,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Connor",
+        "lastName": "McDavid",
+        "dateOfBirth": "1997-01-13",
+        "jerseyNumber": 97,
+        "position": "Center",
+        "team": "Edmonton Oilers",
+        "salary": 12500000,
+        "draftData": {
+          "draftYear": 2015,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Auston",
+        "lastName": "Matthews",
+        "dateOfBirth": "1997-09-17",
+        "jerseyNumber": 34,
+        "position": "Center",
+        "team": "Toronto Maple Leafs",
+        "salary": 13250000,
+        "draftData": {
+          "draftYear": 2016,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Nico",
+        "lastName": "Hischier",
+        "dateOfBirth": "1999-01-04",
+        "jerseyNumber": 13,
+        "position": "Center",
+        "team": "New Jersey Devils",
+        "salary": 7250000,
+        "draftData": {
+          "draftYear": 2017,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Rasmus",
+        "lastName": "Dahlin",
+        "dateOfBirth": "2000-04-13",
+        "jerseyNumber": 26,
+        "position": "Defenseman",
+        "team": "Buffalo Sabres",
+        "salary": 11000000,
+        "draftData": {
+          "draftYear": 2018,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Jack",
+        "lastName": "Hughes",
+        "dateOfBirth": "2001-05-14",
+        "jerseyNumber": 86,
+        "position": "Center",
+        "team": "New Jersey Devils",
+        "salary": 8000000,
+        "draftData": {
+          "draftYear": 2019,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Alexis",
+        "lastName": "Lafreniere",
+        "dateOfBirth": "2001-10-11",
+        "jerseyNumber": 13,
+        "position": "Left Wing",
+        "team": "New York Rangers",
+        "salary": 2325000,
+        "draftData": {
+          "draftYear": 2020,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Owen",
+        "lastName": "Power",
+        "dateOfBirth": "2002-11-22",
+        "jerseyNumber": 25,
+        "position": "Defenseman",
+        "team": "Buffalo Sabres",
+        "salary": 8350000,
+        "draftData": {
+          "draftYear": 2021,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Juraj",
+        "lastName": "Slafkovsky",
+        "dateOfBirth": "2004-03-30",
+        "jerseyNumber": 20,
+        "position": "Right Wing",
+        "team": "Montreal Canadiens",
+        "salary": 950000,
+        "draftData": {
+          "draftYear": 2022,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Connor",
+        "lastName": "Bedard",
+        "dateOfBirth": "2005-07-17",
+        "jerseyNumber": 98,
+        "position": "Center",
+        "team": "Chicago Blackhawks",
+        "salary": 950000,
+        "draftData": {
+          "draftYear": 2023,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      },
+      {
+        "firstName": "Macklin",
+        "lastName": "Celebrini",
+        "dateOfBirth": "2006-06-13",
+        "jerseyNumber": 71,
+        "position": "Center",
+        "team": "San Jose Sharks",
+        "salary": 925000,
+        "draftData": {
+          "draftYear": 2024,
+          "draftRound": 1,
+          "draftPick": 1
+        }
+      }
+    ]
+  }
